@@ -1,0 +1,1661 @@
+fileFormatVersion: 2
+guid: 07c8698217bf2984e81620273c4292ea
+timeCreated: 1514232729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+    100002: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8_arm"
+    100004: gwen_body
+    100006: gwen_body.001
+    100008: gwen_body.002
+    100010: gwen_body.003
+    100012: gwen_body.004
+    100014: gwen_eye
+    100016: gwen_eye.001
+    100018: gwen_hair
+    100020: gwen_pants
+    100022: gwen_pants.001
+    100024: gwen_shirt
+    100026: Gwen_v20:Gwen_Bang_jnt_a
+    100028: Gwen_v20:Gwen_Bang_jnt_b
+    100030: Gwen_v20:Gwen_Bang_jnt_c
+    100032: Gwen_v20:Gwen_Bang_jnt_c_end
+    100034: Gwen_v20:Gwen_Bang_jnt_c_end_end
+    100036: Gwen_v20:Gwen_eye_left
+    100038: Gwen_v20:Gwen_eye_left_end
+    100040: Gwen_v20:Gwen_eye_left_end_end
+    100042: Gwen_v20:Gwen_eye_right
+    100044: Gwen_v20:Gwen_eye_right_end
+    100046: Gwen_v20:Gwen_eye_right_end_end
+    100048: Gwen_v20:Gwen_Hair_jnt_a
+    100050: Gwen_v20:Gwen_Hair_jnt_b
+    100052: Gwen_v20:Gwen_Hair_jnt_c
+    100054: Gwen_v20:Gwen_Hair_jnt_c_end
+    100056: Gwen_v20:Gwen_Hair_jnt_c_end_end
+    100058: Gwen_v20:Gwen_head_a_jnt
+    100060: Gwen_v20:Gwen_head_b_jnt
+    100062: Gwen_v20:Gwen_head_c_jnt
+    100064: Gwen_v20:Gwen_head_d_jnt
+    100066: Gwen_v20:Gwen_head_d_jnt_end
+    100068: Gwen_v20:Gwen_head_d_jnt_end_end
+    100070: Gwen_v20:Gwen_hip_jnt
+    100072: Gwen_v20:Gwen_jaw_a_jnt
+    100074: Gwen_v20:Gwen_jaw_c_jnt
+    100076: Gwen_v20:Gwen_jaw_c_jnt_end
+    100078: Gwen_v20:Gwen_jaw_c_jnt_end_end
+    100080: Gwen_v20:Gwen_Jewelery_Render
+    100082: Gwen_v20:Gwen_lf_ankle_jnt
+    100084: Gwen_v20:Gwen_lf_ball_jnt
+    100086: Gwen_v20:Gwen_lf_clavicle_jnt
+    100088: Gwen_v20:Gwen_lf_elbow_jnt
+    100090: Gwen_v20:Gwen_lf_hand_jnt
+    100092: Gwen_v20:Gwen_lf_index_a_jnt
+    100094: Gwen_v20:Gwen_lf_index_b_jnt
+    100096: Gwen_v20:Gwen_lf_index_c_jnt
+    100098: Gwen_v20:Gwen_lf_index_d_jnt
+    100100: Gwen_v20:Gwen_lf_index_d_jnt_end
+    100102: Gwen_v20:Gwen_lf_index_d_jnt_end_end
+    100104: Gwen_v20:Gwen_lf_knee_jnt
+    100106: Gwen_v20:Gwen_lf_middle_a_jnt
+    100108: Gwen_v20:Gwen_lf_middle_b_jnt
+    100110: Gwen_v20:Gwen_lf_middle_c_jnt
+    100112: Gwen_v20:Gwen_lf_middle_d_jnt
+    100114: Gwen_v20:Gwen_lf_middle_d_jnt_end
+    100116: Gwen_v20:Gwen_lf_middle_d_jnt_end_end
+    100118: Gwen_v20:Gwen_lf_pinky_a_jnt
+    100120: Gwen_v20:Gwen_lf_pinky_b_jnt
+    100122: Gwen_v20:Gwen_lf_pinky_c_jnt
+    100124: Gwen_v20:Gwen_lf_pinky_d_jnt
+    100126: Gwen_v20:Gwen_lf_pinky_d_jnt_end
+    100128: Gwen_v20:Gwen_lf_pinky_d_jnt_end_end
+    100130: Gwen_v20:Gwen_lf_pinkyCup_jnt
+    100132: Gwen_v20:Gwen_lf_ring_a_jnt
+    100134: Gwen_v20:Gwen_lf_ring_b_jnt
+    100136: Gwen_v20:Gwen_lf_ring_c_jnt
+    100138: Gwen_v20:Gwen_lf_ring_d_jnt
+    100140: Gwen_v20:Gwen_lf_ring_d_jnt_end
+    100142: Gwen_v20:Gwen_lf_ring_d_jnt_end_end
+    100144: Gwen_v20:Gwen_lf_ringCup_jnt
+    100146: Gwen_v20:Gwen_lf_thumb_a_jnt
+    100148: Gwen_v20:Gwen_lf_thumb_b_jnt
+    100150: Gwen_v20:Gwen_lf_thumb_c_jnt
+    100152: Gwen_v20:Gwen_lf_thumb_d_jnt
+    100154: Gwen_v20:Gwen_lf_thumb_d_jnt_end
+    100156: Gwen_v20:Gwen_lf_thumb_d_jnt_end_end
+    100158: Gwen_v20:Gwen_lf_toe_jnt
+    100160: Gwen_v20:Gwen_lf_toe_jnt_end
+    100162: Gwen_v20:Gwen_lf_toe_jnt_end_end
+    100164: Gwen_v20:Gwen_lf_upArm_jnt
+    100166: Gwen_v20:Gwen_lf_upLeg_jnt
+    100168: Gwen_v20:Gwen_lf_wrist_jnt
+    100170: Gwen_v20:Gwen_neck_jnt
+    100172: Gwen_v20:Gwen_rt_ankle_jnt
+    100174: Gwen_v20:Gwen_rt_ball_jnt
+    100176: Gwen_v20:Gwen_rt_clavicle_jnt
+    100178: Gwen_v20:Gwen_rt_elbow_jnt
+    100180: Gwen_v20:Gwen_rt_hand_jnt
+    100182: Gwen_v20:Gwen_rt_index_a_jnt
+    100184: Gwen_v20:Gwen_rt_index_b_jnt
+    100186: Gwen_v20:Gwen_rt_index_c_jnt
+    100188: Gwen_v20:Gwen_rt_index_d_jnt
+    100190: Gwen_v20:Gwen_rt_index_d_jnt_end
+    100192: Gwen_v20:Gwen_rt_index_d_jnt_end_end
+    100194: Gwen_v20:Gwen_rt_knee_jnt
+    100196: Gwen_v20:Gwen_rt_middle_a_jnt
+    100198: Gwen_v20:Gwen_rt_middle_b_jnt
+    100200: Gwen_v20:Gwen_rt_middle_c_jnt
+    100202: Gwen_v20:Gwen_rt_middle_d_jnt
+    100204: Gwen_v20:Gwen_rt_middle_d_jnt_end
+    100206: Gwen_v20:Gwen_rt_middle_d_jnt_end_end
+    100208: Gwen_v20:Gwen_rt_pinky_a_jnt
+    100210: Gwen_v20:Gwen_rt_pinky_b_jnt
+    100212: Gwen_v20:Gwen_rt_pinky_c_jnt
+    100214: Gwen_v20:Gwen_rt_pinky_d_jnt
+    100216: Gwen_v20:Gwen_rt_pinky_d_jnt_end
+    100218: Gwen_v20:Gwen_rt_pinky_d_jnt_end_end
+    100220: Gwen_v20:Gwen_rt_pinkyCup_jnt
+    100222: Gwen_v20:Gwen_rt_ring_a_jnt
+    100224: Gwen_v20:Gwen_rt_ring_b_jnt
+    100226: Gwen_v20:Gwen_rt_ring_c_jnt
+    100228: Gwen_v20:Gwen_rt_ring_d_jnt
+    100230: Gwen_v20:Gwen_rt_ring_d_jnt_end
+    100232: Gwen_v20:Gwen_rt_ring_d_jnt_end_end
+    100234: Gwen_v20:Gwen_rt_ringCup_jnt
+    100236: Gwen_v20:Gwen_rt_thumb_a_jnt
+    100238: Gwen_v20:Gwen_rt_thumb_b_jnt
+    100240: Gwen_v20:Gwen_rt_thumb_c_jnt
+    100242: Gwen_v20:Gwen_rt_thumb_d_jnt
+    100244: Gwen_v20:Gwen_rt_thumb_d_jnt_end
+    100246: Gwen_v20:Gwen_rt_thumb_d_jnt_end_end
+    100248: Gwen_v20:Gwen_rt_toe_jnt
+    100250: Gwen_v20:Gwen_rt_toe_jnt_end
+    100252: Gwen_v20:Gwen_rt_toe_jnt_end_end
+    100254: Gwen_v20:Gwen_rt_upArm_jnt
+    100256: Gwen_v20:Gwen_rt_upLeg_jnt
+    100258: Gwen_v20:Gwen_rt_wrist_jnt
+    100260: Gwen_v20:Gwen_Skeleton_grp
+    100262: Gwen_v20:Gwen_spine_end_jnt
+    100264: Gwen_v20:Gwen_spine_hi_jnt
+    100266: Gwen_v20:Gwen_spine_low_jnt
+    100268: Gwen_v20:Gwen_spine_mid_jnt
+    100270: Gwen_v20:Gwen_tongue_a_jnt
+    100272: Gwen_v20:Gwen_tongue_b_jnt
+    100274: Gwen_v20:Gwen_tongue_c_jnt
+    100276: Gwen_v20:Gwen_tongue_d_jnt
+    100278: Gwen_v20:Gwen_tongue_e_jnt
+    100280: Gwen_v20:Gwen_tongue_e_jnt_end
+    100282: Gwen_v20:Gwen_tongue_e_jnt_end_end
+    100284: Gwen_v20:lf_armWeightJnt_grp
+    100286: Gwen_v20:lf_armWeightJnt_grp_end
+    100288: Gwen_v20:lf_armWeightJnt_grp_end_end
+    100290: Gwen_v20:lf_legWeightJnt_grp
+    100292: Gwen_v20:lf_legWeightJnt_grp_end
+    100294: Gwen_v20:lf_legWeightJnt_grp_end_end
+    100296: Gwen_v20:rt_armWeightJnt_grp
+    100298: Gwen_v20:rt_armWeightJnt_grp_end
+    100300: Gwen_v20:rt_armWeightJnt_grp_end_end
+    100302: Gwen_v20:rt_legWeightJnt_grp
+    100304: Gwen_v20:rt_legWeightJnt_grp_end
+    100306: Gwen_v20:rt_legWeightJnt_grp_end_end
+    100308: Gwen_v20:weightSpine_grp
+    100310: Gwen_v20:weightSpine_grp_end
+    100312: Gwen_v20:weightSpine_grp_end_end
+    100314: //RootNode
+    100316: Hemi
+    100318: joints
+    100320: rigidbodies
+    400000: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+    400002: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8_arm"
+    400004: gwen_body
+    400006: gwen_body.001
+    400008: gwen_body.002
+    400010: gwen_body.003
+    400012: gwen_body.004
+    400014: gwen_eye
+    400016: gwen_eye.001
+    400018: gwen_hair
+    400020: gwen_pants
+    400022: gwen_pants.001
+    400024: gwen_shirt
+    400026: Gwen_v20:Gwen_Bang_jnt_a
+    400028: Gwen_v20:Gwen_Bang_jnt_b
+    400030: Gwen_v20:Gwen_Bang_jnt_c
+    400032: Gwen_v20:Gwen_Bang_jnt_c_end
+    400034: Gwen_v20:Gwen_Bang_jnt_c_end_end
+    400036: Gwen_v20:Gwen_eye_left
+    400038: Gwen_v20:Gwen_eye_left_end
+    400040: Gwen_v20:Gwen_eye_left_end_end
+    400042: Gwen_v20:Gwen_eye_right
+    400044: Gwen_v20:Gwen_eye_right_end
+    400046: Gwen_v20:Gwen_eye_right_end_end
+    400048: Gwen_v20:Gwen_Hair_jnt_a
+    400050: Gwen_v20:Gwen_Hair_jnt_b
+    400052: Gwen_v20:Gwen_Hair_jnt_c
+    400054: Gwen_v20:Gwen_Hair_jnt_c_end
+    400056: Gwen_v20:Gwen_Hair_jnt_c_end_end
+    400058: Gwen_v20:Gwen_head_a_jnt
+    400060: Gwen_v20:Gwen_head_b_jnt
+    400062: Gwen_v20:Gwen_head_c_jnt
+    400064: Gwen_v20:Gwen_head_d_jnt
+    400066: Gwen_v20:Gwen_head_d_jnt_end
+    400068: Gwen_v20:Gwen_head_d_jnt_end_end
+    400070: Gwen_v20:Gwen_hip_jnt
+    400072: Gwen_v20:Gwen_jaw_a_jnt
+    400074: Gwen_v20:Gwen_jaw_c_jnt
+    400076: Gwen_v20:Gwen_jaw_c_jnt_end
+    400078: Gwen_v20:Gwen_jaw_c_jnt_end_end
+    400080: Gwen_v20:Gwen_Jewelery_Render
+    400082: Gwen_v20:Gwen_lf_ankle_jnt
+    400084: Gwen_v20:Gwen_lf_ball_jnt
+    400086: Gwen_v20:Gwen_lf_clavicle_jnt
+    400088: Gwen_v20:Gwen_lf_elbow_jnt
+    400090: Gwen_v20:Gwen_lf_hand_jnt
+    400092: Gwen_v20:Gwen_lf_index_a_jnt
+    400094: Gwen_v20:Gwen_lf_index_b_jnt
+    400096: Gwen_v20:Gwen_lf_index_c_jnt
+    400098: Gwen_v20:Gwen_lf_index_d_jnt
+    400100: Gwen_v20:Gwen_lf_index_d_jnt_end
+    400102: Gwen_v20:Gwen_lf_index_d_jnt_end_end
+    400104: Gwen_v20:Gwen_lf_knee_jnt
+    400106: Gwen_v20:Gwen_lf_middle_a_jnt
+    400108: Gwen_v20:Gwen_lf_middle_b_jnt
+    400110: Gwen_v20:Gwen_lf_middle_c_jnt
+    400112: Gwen_v20:Gwen_lf_middle_d_jnt
+    400114: Gwen_v20:Gwen_lf_middle_d_jnt_end
+    400116: Gwen_v20:Gwen_lf_middle_d_jnt_end_end
+    400118: Gwen_v20:Gwen_lf_pinky_a_jnt
+    400120: Gwen_v20:Gwen_lf_pinky_b_jnt
+    400122: Gwen_v20:Gwen_lf_pinky_c_jnt
+    400124: Gwen_v20:Gwen_lf_pinky_d_jnt
+    400126: Gwen_v20:Gwen_lf_pinky_d_jnt_end
+    400128: Gwen_v20:Gwen_lf_pinky_d_jnt_end_end
+    400130: Gwen_v20:Gwen_lf_pinkyCup_jnt
+    400132: Gwen_v20:Gwen_lf_ring_a_jnt
+    400134: Gwen_v20:Gwen_lf_ring_b_jnt
+    400136: Gwen_v20:Gwen_lf_ring_c_jnt
+    400138: Gwen_v20:Gwen_lf_ring_d_jnt
+    400140: Gwen_v20:Gwen_lf_ring_d_jnt_end
+    400142: Gwen_v20:Gwen_lf_ring_d_jnt_end_end
+    400144: Gwen_v20:Gwen_lf_ringCup_jnt
+    400146: Gwen_v20:Gwen_lf_thumb_a_jnt
+    400148: Gwen_v20:Gwen_lf_thumb_b_jnt
+    400150: Gwen_v20:Gwen_lf_thumb_c_jnt
+    400152: Gwen_v20:Gwen_lf_thumb_d_jnt
+    400154: Gwen_v20:Gwen_lf_thumb_d_jnt_end
+    400156: Gwen_v20:Gwen_lf_thumb_d_jnt_end_end
+    400158: Gwen_v20:Gwen_lf_toe_jnt
+    400160: Gwen_v20:Gwen_lf_toe_jnt_end
+    400162: Gwen_v20:Gwen_lf_toe_jnt_end_end
+    400164: Gwen_v20:Gwen_lf_upArm_jnt
+    400166: Gwen_v20:Gwen_lf_upLeg_jnt
+    400168: Gwen_v20:Gwen_lf_wrist_jnt
+    400170: Gwen_v20:Gwen_neck_jnt
+    400172: Gwen_v20:Gwen_rt_ankle_jnt
+    400174: Gwen_v20:Gwen_rt_ball_jnt
+    400176: Gwen_v20:Gwen_rt_clavicle_jnt
+    400178: Gwen_v20:Gwen_rt_elbow_jnt
+    400180: Gwen_v20:Gwen_rt_hand_jnt
+    400182: Gwen_v20:Gwen_rt_index_a_jnt
+    400184: Gwen_v20:Gwen_rt_index_b_jnt
+    400186: Gwen_v20:Gwen_rt_index_c_jnt
+    400188: Gwen_v20:Gwen_rt_index_d_jnt
+    400190: Gwen_v20:Gwen_rt_index_d_jnt_end
+    400192: Gwen_v20:Gwen_rt_index_d_jnt_end_end
+    400194: Gwen_v20:Gwen_rt_knee_jnt
+    400196: Gwen_v20:Gwen_rt_middle_a_jnt
+    400198: Gwen_v20:Gwen_rt_middle_b_jnt
+    400200: Gwen_v20:Gwen_rt_middle_c_jnt
+    400202: Gwen_v20:Gwen_rt_middle_d_jnt
+    400204: Gwen_v20:Gwen_rt_middle_d_jnt_end
+    400206: Gwen_v20:Gwen_rt_middle_d_jnt_end_end
+    400208: Gwen_v20:Gwen_rt_pinky_a_jnt
+    400210: Gwen_v20:Gwen_rt_pinky_b_jnt
+    400212: Gwen_v20:Gwen_rt_pinky_c_jnt
+    400214: Gwen_v20:Gwen_rt_pinky_d_jnt
+    400216: Gwen_v20:Gwen_rt_pinky_d_jnt_end
+    400218: Gwen_v20:Gwen_rt_pinky_d_jnt_end_end
+    400220: Gwen_v20:Gwen_rt_pinkyCup_jnt
+    400222: Gwen_v20:Gwen_rt_ring_a_jnt
+    400224: Gwen_v20:Gwen_rt_ring_b_jnt
+    400226: Gwen_v20:Gwen_rt_ring_c_jnt
+    400228: Gwen_v20:Gwen_rt_ring_d_jnt
+    400230: Gwen_v20:Gwen_rt_ring_d_jnt_end
+    400232: Gwen_v20:Gwen_rt_ring_d_jnt_end_end
+    400234: Gwen_v20:Gwen_rt_ringCup_jnt
+    400236: Gwen_v20:Gwen_rt_thumb_a_jnt
+    400238: Gwen_v20:Gwen_rt_thumb_b_jnt
+    400240: Gwen_v20:Gwen_rt_thumb_c_jnt
+    400242: Gwen_v20:Gwen_rt_thumb_d_jnt
+    400244: Gwen_v20:Gwen_rt_thumb_d_jnt_end
+    400246: Gwen_v20:Gwen_rt_thumb_d_jnt_end_end
+    400248: Gwen_v20:Gwen_rt_toe_jnt
+    400250: Gwen_v20:Gwen_rt_toe_jnt_end
+    400252: Gwen_v20:Gwen_rt_toe_jnt_end_end
+    400254: Gwen_v20:Gwen_rt_upArm_jnt
+    400256: Gwen_v20:Gwen_rt_upLeg_jnt
+    400258: Gwen_v20:Gwen_rt_wrist_jnt
+    400260: Gwen_v20:Gwen_Skeleton_grp
+    400262: Gwen_v20:Gwen_spine_end_jnt
+    400264: Gwen_v20:Gwen_spine_hi_jnt
+    400266: Gwen_v20:Gwen_spine_low_jnt
+    400268: Gwen_v20:Gwen_spine_mid_jnt
+    400270: Gwen_v20:Gwen_tongue_a_jnt
+    400272: Gwen_v20:Gwen_tongue_b_jnt
+    400274: Gwen_v20:Gwen_tongue_c_jnt
+    400276: Gwen_v20:Gwen_tongue_d_jnt
+    400278: Gwen_v20:Gwen_tongue_e_jnt
+    400280: Gwen_v20:Gwen_tongue_e_jnt_end
+    400282: Gwen_v20:Gwen_tongue_e_jnt_end_end
+    400284: Gwen_v20:lf_armWeightJnt_grp
+    400286: Gwen_v20:lf_armWeightJnt_grp_end
+    400288: Gwen_v20:lf_armWeightJnt_grp_end_end
+    400290: Gwen_v20:lf_legWeightJnt_grp
+    400292: Gwen_v20:lf_legWeightJnt_grp_end
+    400294: Gwen_v20:lf_legWeightJnt_grp_end_end
+    400296: Gwen_v20:rt_armWeightJnt_grp
+    400298: Gwen_v20:rt_armWeightJnt_grp_end
+    400300: Gwen_v20:rt_armWeightJnt_grp_end_end
+    400302: Gwen_v20:rt_legWeightJnt_grp
+    400304: Gwen_v20:rt_legWeightJnt_grp_end
+    400306: Gwen_v20:rt_legWeightJnt_grp_end_end
+    400308: Gwen_v20:weightSpine_grp
+    400310: Gwen_v20:weightSpine_grp_end
+    400312: Gwen_v20:weightSpine_grp_end_end
+    400314: //RootNode
+    400316: Hemi
+    400318: joints
+    400320: rigidbodies
+    4300000: gwen_body.004
+    4300002: gwen_body.003
+    4300004: gwen_body.001
+    4300006: gwen_hair
+    4300008: Gwen_v20:Gwen_Jewelery_Render
+    4300010: gwen_eye.001
+    4300012: gwen_body
+    4300014: gwen_shirt
+    4300016: gwen_eye
+    4300018: gwen_pants.001
+    4300020: gwen_pants
+    4300022: gwen_body.002
+    9500000: //RootNode
+    13700000: gwen_body
+    13700002: gwen_body.001
+    13700004: gwen_body.002
+    13700006: gwen_body.003
+    13700008: gwen_body.004
+    13700010: gwen_eye
+    13700012: gwen_eye.001
+    13700014: gwen_hair
+    13700016: gwen_pants
+    13700018: gwen_pants.001
+    13700020: gwen_shirt
+    13700022: Gwen_v20:Gwen_Jewelery_Render
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Gwen_v20:Gwen_spine_low_jnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_upLeg_jnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_upLeg_jnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_knee_jnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_knee_jnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_ankle_jnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_ankle_jnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_spine_mid_jnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_spine_end_jnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_neck_jnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_head_a_jnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_clavicle_jnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_clavicle_jnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_upArm_jnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_upArm_jnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_elbow_jnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_elbow_jnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_hand_jnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_hand_jnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_toe_jnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_toe_jnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_eye_left
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_eye_right
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_jaw_a_jnt
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_thumb_a_jnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_thumb_b_jnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_thumb_c_jnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_index_a_jnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_index_b_jnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_index_c_jnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_middle_a_jnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_middle_b_jnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_middle_c_jnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_ring_a_jnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_ring_b_jnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_ring_c_jnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_pinky_a_jnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_pinky_b_jnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_lf_pinky_c_jnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_thumb_a_jnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_thumb_b_jnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_thumb_c_jnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_index_a_jnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_index_b_jnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_index_c_jnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_middle_a_jnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_middle_b_jnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_middle_c_jnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_ring_a_jnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_ring_b_jnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_ring_c_jnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_pinky_a_jnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_pinky_b_jnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Gwen_v20:Gwen_rt_pinky_c_jnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: gwenV2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+      parentName: gwenV2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8_arm"
+      parentName: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Skeleton_grp
+      parentName: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8_arm"
+      position: {x: 0.00000040263583, y: 0.00023775472, z: -0.00060704804}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_spine_low_jnt
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: 0, y: 0.024125628, z: 0.0003631469}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_spine_mid_jnt
+      parentName: Gwen_v20:Gwen_spine_low_jnt
+      position: {x: -0, y: 0.0018268323, z: 0.00010513808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_spine_hi_jnt
+      parentName: Gwen_v20:Gwen_spine_mid_jnt
+      position: {x: -0, y: 0.0017328333, z: -0.0000110855035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_spine_end_jnt
+      parentName: Gwen_v20:Gwen_spine_hi_jnt
+      position: {x: -0, y: 0.0020451401, z: -0.00045666605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_neck_jnt
+      parentName: Gwen_v20:Gwen_spine_end_jnt
+      position: {x: -0, y: 0.0030701638, z: -0.00036075173}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_a_jnt
+      parentName: Gwen_v20:Gwen_neck_jnt
+      position: {x: -0, y: 0.002130468, z: 0.0003345219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_b_jnt
+      parentName: Gwen_v20:Gwen_head_a_jnt
+      position: {x: -0, y: 0.0013828658, z: 0.00010399956}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_c_jnt
+      parentName: Gwen_v20:Gwen_head_b_jnt
+      position: {x: -0, y: 0.0019425511, z: -0.0000139647145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_d_jnt
+      parentName: Gwen_v20:Gwen_head_c_jnt
+      position: {x: -0, y: 0.0022358224, z: -0.00052094617}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_d_jnt_end
+      parentName: Gwen_v20:Gwen_head_d_jnt
+      position: {x: -0, y: 0.0020000027, z: 4.3769431e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_head_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_head_d_jnt_end
+      position: {x: -0, y: 0.002000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Hair_jnt_a
+      parentName: Gwen_v20:Gwen_head_c_jnt
+      position: {x: -0, y: -2.8251814e-11, z: 1.3625367e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_Hair_jnt_b
+      parentName: Gwen_v20:Gwen_Hair_jnt_a
+      position: {x: -0.00006163079, y: -0.0021022777, z: -0.002126078}
+      rotation: {x: -3.5527137e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Hair_jnt_c
+      parentName: Gwen_v20:Gwen_Hair_jnt_b
+      position: {x: 0.000022314554, y: -0.0022825291, z: 0.00007019183}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Hair_jnt_c_end
+      parentName: Gwen_v20:Gwen_Hair_jnt_c
+      position: {x: -0, y: 0.002, z: 3.5995526e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Hair_jnt_c_end_end
+      parentName: Gwen_v20:Gwen_Hair_jnt_c_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Bang_jnt_a
+      parentName: Gwen_v20:Gwen_head_c_jnt
+      position: {x: -0, y: -2.8251814e-11, z: 1.3625367e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Bang_jnt_b
+      parentName: Gwen_v20:Gwen_Bang_jnt_a
+      position: {x: 0.0024838783, y: -0.0011524198, z: 0.0012283289}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_Bang_jnt_c
+      parentName: Gwen_v20:Gwen_Bang_jnt_b
+      position: {x: -0.0003114739, y: -0.0020719978, z: -0.0003672293}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Bang_jnt_c_end
+      parentName: Gwen_v20:Gwen_Bang_jnt_c
+      position: {x: -0, y: 0.002000003, z: -4.0449775e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_Bang_jnt_c_end_end
+      parentName: Gwen_v20:Gwen_Bang_jnt_c_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_jaw_a_jnt
+      parentName: Gwen_v20:Gwen_head_a_jnt
+      position: {x: -0, y: -0.0005926822, z: 0.000868749}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_jaw_c_jnt
+      parentName: Gwen_v20:Gwen_jaw_a_jnt
+      position: {x: -0, y: -0.0004938503, z: 0.0017649836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_jaw_c_jnt_end
+      parentName: Gwen_v20:Gwen_jaw_c_jnt
+      position: {x: -0, y: 0.0020000008, z: 4.0416805e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_jaw_c_jnt_end_end
+      parentName: Gwen_v20:Gwen_jaw_c_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_a_jnt
+      parentName: Gwen_v20:Gwen_jaw_a_jnt
+      position: {x: -0, y: 9.861673e-11, z: -1.2223608e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_b_jnt
+      parentName: Gwen_v20:Gwen_tongue_a_jnt
+      position: {x: 0.000015810625, y: -0.00018357021, z: 0.00038176583}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_c_jnt
+      parentName: Gwen_v20:Gwen_tongue_b_jnt
+      position: {x: 7.264316e-10, y: 0.0001860883, z: 0.00037120082}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_d_jnt
+      parentName: Gwen_v20:Gwen_tongue_c_jnt
+      position: {x: 6.961636e-10, y: 0.000037162587, z: 0.0003849403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_e_jnt
+      parentName: Gwen_v20:Gwen_tongue_d_jnt
+      position: {x: 1.268927e-10, y: -0.00004276241, z: 0.0003780888}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_e_jnt_end
+      parentName: Gwen_v20:Gwen_tongue_e_jnt
+      position: {x: -0, y: 0.0020000008, z: -3.9539712e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_tongue_e_jnt_end_end
+      parentName: Gwen_v20:Gwen_tongue_e_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_left
+      parentName: Gwen_v20:Gwen_head_a_jnt
+      position: {x: -0.0009208786, y: 0.0012844611, z: 0.0013311524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_left_end
+      parentName: Gwen_v20:Gwen_eye_left
+      position: {x: -0, y: 0.0020000006, z: -4.784397e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_left_end_end
+      parentName: Gwen_v20:Gwen_eye_left_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_right
+      parentName: Gwen_v20:Gwen_head_a_jnt
+      position: {x: 0.00091700547, y: 0.0012844611, z: 0.0013311524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_right_end
+      parentName: Gwen_v20:Gwen_eye_right
+      position: {x: -0, y: 0.0020000006, z: -4.784397e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_eye_right_end_end
+      parentName: Gwen_v20:Gwen_eye_right_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_clavicle_jnt
+      parentName: Gwen_v20:Gwen_spine_end_jnt
+      position: {x: -0.0017846221, y: 0.00232043, z: -0.0004043253}
+      rotation: {x: 0.00000008940697, y: 0.0063226484, z: -0.06421081, w: 0.99791634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_upArm_jnt
+      parentName: Gwen_v20:Gwen_lf_clavicle_jnt
+      position: {x: -0.0013924452, y: -0.0006792618, z: -0.00006688562}
+      rotation: {x: -0.000506566, y: 0.0015646615, z: 0.023916557, w: 0.99971265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_elbow_jnt
+      parentName: Gwen_v20:Gwen_lf_upArm_jnt
+      position: {x: -0.0047610826, y: -0.0000000049018, z: -0.00010083925}
+      rotation: {x: 0.00016757283, y: -0.0030655914, z: 0.0050513744, w: 0.99998254}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_wrist_jnt
+      parentName: Gwen_v20:Gwen_lf_elbow_jnt
+      position: {x: -0.0049595153, y: -0.000000007258861, z: 0.00016451422}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_hand_jnt
+      parentName: Gwen_v20:Gwen_lf_wrist_jnt
+      position: {x: -0, y: -1.0630409e-10, z: -3.4644926e-11}
+      rotation: {x: -9.313226e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_a_jnt
+      parentName: Gwen_v20:Gwen_lf_hand_jnt
+      position: {x: -0.0002753675, y: -0.00036952976, z: 0.00037899695}
+      rotation: {x: -0.047181003, y: 0.09401894, z: -0.036578614, w: 0.9937788}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_b_jnt
+      parentName: Gwen_v20:Gwen_lf_thumb_a_jnt
+      position: {x: -0.0007097101, y: -0.00016111847, z: 0.00050129695}
+      rotation: {x: -0.019906024, y: 0.17792492, z: 0.02900302, w: 0.9834152}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_c_jnt
+      parentName: Gwen_v20:Gwen_lf_thumb_b_jnt
+      position: {x: -0.00073587534, y: -0.00010432476, z: 0.00013494035}
+      rotation: {x: 0.0011885143, y: 0.0034995216, z: 0.009186892, w: 0.99995095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_d_jnt
+      parentName: Gwen_v20:Gwen_lf_thumb_c_jnt
+      position: {x: -0.0005931496, y: -0.000025920794, z: 0.00008660822}
+      rotation: {x: 3.3087228e-23, y: 0.00000001862645, z: 1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_d_jnt_end
+      parentName: Gwen_v20:Gwen_lf_thumb_d_jnt
+      position: {x: 1.0880185e-16, y: 0.0020000006, z: 2.6524222e-11}
+      rotation: {x: 0, y: 0, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_thumb_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_thumb_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_a_jnt
+      parentName: Gwen_v20:Gwen_lf_hand_jnt
+      position: {x: -0.0017477679, y: -0.000032083986, z: 0.00065534964}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_b_jnt
+      parentName: Gwen_v20:Gwen_lf_index_a_jnt
+      position: {x: -0.0005457604, y: -0.000015788077, z: -3.352767e-10}
+      rotation: {x: -4.366285e-11, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_c_jnt
+      parentName: Gwen_v20:Gwen_lf_index_b_jnt
+      position: {x: -0.00044602275, y: -0.000025031564, z: -2.6222324e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_d_jnt
+      parentName: Gwen_v20:Gwen_lf_index_c_jnt
+      position: {x: -0.00045197128, y: -0.000026564596, z: -2.6255179e-10}
+      rotation: {x: -1.454481e-11, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_d_jnt_end
+      parentName: Gwen_v20:Gwen_lf_index_d_jnt
+      position: {x: -0, y: 0.0020000003, z: 4.2177815e-13}
+      rotation: {x: 1.4551915e-11, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_index_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_index_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_a_jnt
+      parentName: Gwen_v20:Gwen_lf_hand_jnt
+      position: {x: -0.0017961585, y: 0.000037469803, z: 0.000276059}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_b_jnt
+      parentName: Gwen_v20:Gwen_lf_middle_a_jnt
+      position: {x: -0.00058166264, y: 0.00000020497987, z: -4.318764e-10}
+      rotation: {x: -4.6569326e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_c_jnt
+      parentName: Gwen_v20:Gwen_lf_middle_b_jnt
+      position: {x: -0.00052458525, y: -0.000016140997, z: -3.6399797e-10}
+      rotation: {x: 9.313439e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_d_jnt
+      parentName: Gwen_v20:Gwen_lf_middle_c_jnt
+      position: {x: -0.0005246401, y: -0.000026564658, z: -3.7837536e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_d_jnt_end
+      parentName: Gwen_v20:Gwen_lf_middle_d_jnt
+      position: {x: -0, y: 0.0020000003, z: 1.5393198e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_middle_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_middle_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ringCup_jnt
+      parentName: Gwen_v20:Gwen_lf_hand_jnt
+      position: {x: -0.0010880064, y: 0.000026576388, z: -0.00015099702}
+      rotation: {x: -0.0017734582, y: 0.024873847, z: -0.01491522, w: 0.99957776}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_a_jnt
+      parentName: Gwen_v20:Gwen_lf_ringCup_jnt
+      position: {x: -0.0007503092, y: -0.00007045282, z: -0.000028280438}
+      rotation: {x: -0, y: 0.000000018626448, z: 1.0587912e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_b_jnt
+      parentName: Gwen_v20:Gwen_lf_ring_a_jnt
+      position: {x: -0.00043313976, y: -0.00002492918, z: -1.1022472e-11}
+      rotation: {x: 3.3087225e-23, y: -0.000000027939674, z: -1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_c_jnt
+      parentName: Gwen_v20:Gwen_lf_ring_b_jnt
+      position: {x: -0.00049220916, y: -0.000019025936, z: -4.5204587e-11}
+      rotation: {x: -9.313226e-10, y: 8.881785e-16, z: 8.881784e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_d_jnt
+      parentName: Gwen_v20:Gwen_lf_ring_c_jnt
+      position: {x: -0.00043368933, y: 0.000003881322, z: 1.8028672e-11}
+      rotation: {x: -0, y: 3.7865323e-29, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_d_jnt_end
+      parentName: Gwen_v20:Gwen_lf_ring_d_jnt
+      position: {x: -1.5348861e-11, y: 0.0020000027, z: -6.250289e-12}
+      rotation: {x: -0, y: 3.7865323e-29, z: 5.293956e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ring_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_ring_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinkyCup_jnt
+      parentName: Gwen_v20:Gwen_lf_hand_jnt
+      position: {x: -0.0010068405, y: -0.00007428425, z: -0.0004571815}
+      rotation: {x: -0.008685295, y: 0.0880472, z: -0.06846124, w: 0.993723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_a_jnt
+      parentName: Gwen_v20:Gwen_lf_pinkyCup_jnt
+      position: {x: -0.00069157005, y: -0.00014975328, z: -0.00010485569}
+      rotation: {x: 0.0053701247, y: -0.037586585, z: 0.018261725, w: 0.9991121}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_b_jnt
+      parentName: Gwen_v20:Gwen_lf_pinky_a_jnt
+      position: {x: -0.0004294503, y: -0.0000613596, z: -3.4102282e-10}
+      rotation: {x: 3.3087228e-23, y: 0.00000001862645, z: 1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_c_jnt
+      parentName: Gwen_v20:Gwen_lf_pinky_b_jnt
+      position: {x: -0.00026991844, y: -0.000058746533, z: -2.2062356e-10}
+      rotation: {x: 2.5127367e-38, y: -1.1368684e-15, z: -1.1368684e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_d_jnt
+      parentName: Gwen_v20:Gwen_lf_pinky_c_jnt
+      position: {x: -0.00029311655, y: -0.0000080563605, z: -2.1931044e-10}
+      rotation: {x: 0, y: -9.466331e-30, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_d_jnt_end
+      parentName: Gwen_v20:Gwen_lf_pinky_d_jnt
+      position: {x: 4.2188474e-17, y: 0.0020000003, z: -2.3797516e-11}
+      rotation: {x: 0, y: -9.466331e-30, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_pinky_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_pinky_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_clavicle_jnt
+      parentName: Gwen_v20:Gwen_spine_end_jnt
+      position: {x: 0.0017846181, y: 0.0023203704, z: -0.00040432226}
+      rotation: {x: -0.00000008940697, y: -0.0063214526, z: 0.0641926, w: 0.99791753}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_upArm_jnt
+      parentName: Gwen_v20:Gwen_rt_clavicle_jnt
+      position: {x: 0.0013924425, y: -0.00067919743, z: -0.00006688451}
+      rotation: {x: -0.0005060682, y: -0.0015643779, z: -0.023897108, w: 0.9997131}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_elbow_jnt
+      parentName: Gwen_v20:Gwen_rt_upArm_jnt
+      position: {x: 0.004761092, y: -1.3184463e-10, z: -0.00010083531}
+      rotation: {x: 0.00016760665, y: 0.0030655046, z: -0.0050518755, w: 0.99998254}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_rt_wrist_jnt
+      parentName: Gwen_v20:Gwen_rt_elbow_jnt
+      position: {x: 0.0049595153, y: -0.0000000024880167, z: 0.00016451842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_hand_jnt
+      parentName: Gwen_v20:Gwen_rt_wrist_jnt
+      position: {x: -0, y: 0.0000000022803546, z: 5.955485e-12}
+      rotation: {x: 9.313226e-10, y: 0.000000014901161, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_a_jnt
+      parentName: Gwen_v20:Gwen_rt_hand_jnt
+      position: {x: 0.00027535795, y: -0.00036946777, z: 0.00037899672}
+      rotation: {x: -0.047198884, y: -0.09402609, z: 0.036588673, w: 0.993777}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_b_jnt
+      parentName: Gwen_v20:Gwen_rt_thumb_a_jnt
+      position: {x: 0.00070971844, y: -0.00016119238, z: 0.0005012964}
+      rotation: {x: -0.01986968, y: -0.17792706, z: -0.029081382, w: 0.98341316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_c_jnt
+      parentName: Gwen_v20:Gwen_rt_thumb_b_jnt
+      position: {x: 0.0007358837, y: -0.000104231774, z: 0.00013493994}
+      rotation: {x: 0.0011825281, y: -0.0034849788, z: -0.009141179, w: 0.9999515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_d_jnt
+      parentName: Gwen_v20:Gwen_rt_thumb_c_jnt
+      position: {x: 0.00059314485, y: -0.000025911257, z: 0.00008660802}
+      rotation: {x: 3.6429185e-16, y: -0.000000018626448, z: -0.000000018626448, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_d_jnt_end
+      parentName: Gwen_v20:Gwen_rt_thumb_d_jnt
+      position: {x: 2.2468869e-11, y: 0.0020000034, z: -1.6300147e-11}
+      rotation: {x: -4.656613e-10, y: -2.36679e-17, z: 0.000000029802322, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_thumb_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_thumb_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_a_jnt
+      parentName: Gwen_v20:Gwen_rt_hand_jnt
+      position: {x: 0.0017477572, y: -0.000032038686, z: 0.0006553509}
+      rotation: {x: 0, y: -8.881784e-16, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_b_jnt
+      parentName: Gwen_v20:Gwen_rt_index_a_jnt
+      position: {x: 0.0005457747, y: -0.00001581907, z: 1.4396188e-10}
+      rotation: {x: -0, y: -0.000000018626448, z: -2.646978e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_c_jnt
+      parentName: Gwen_v20:Gwen_rt_index_b_jnt
+      position: {x: 0.00044600604, y: -0.000025124547, z: 1.0849014e-10}
+      rotation: {x: -3.5527137e-15, y: 1.3322676e-15, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_d_jnt
+      parentName: Gwen_v20:Gwen_rt_index_c_jnt
+      position: {x: 0.00045198202, y: -0.000026504991, z: 1.08276894e-10}
+      rotation: {x: 0, y: -4.4408926e-16, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_d_jnt_end
+      parentName: Gwen_v20:Gwen_rt_index_d_jnt
+      position: {x: 7.903677e-14, y: 0.002000003, z: 1.60707e-13}
+      rotation: {x: 0, y: -3.1554436e-30, z: 3.1554436e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_index_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_index_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_a_jnt
+      parentName: Gwen_v20:Gwen_rt_hand_jnt
+      position: {x: 0.0017961573, y: 0.000037391124, z: 0.00027606057}
+      rotation: {x: -3.5527137e-15, y: 0, z: -1.0587912e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_b_jnt
+      parentName: Gwen_v20:Gwen_rt_middle_a_jnt
+      position: {x: 0.0005816686, y: 0.00000020497991, z: 1.3837446e-10}
+      rotation: {x: 4.656755e-10, y: -0.000000018626448, z: -8.673806e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_c_jnt
+      parentName: Gwen_v20:Gwen_rt_middle_b_jnt
+      position: {x: 0.0005245888, y: -0.000016024173, z: 2.4299469e-11}
+      rotation: {x: -4.656613e-10, y: 4.4408926e-16, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_d_jnt
+      parentName: Gwen_v20:Gwen_rt_middle_c_jnt
+      position: {x: 0.00052462576, y: -0.000026507438, z: 5.2701087e-11}
+      rotation: {x: 4.656613e-10, y: -4.4408926e-16, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_d_jnt_end
+      parentName: Gwen_v20:Gwen_rt_middle_d_jnt
+      position: {x: -2.746896e-12, y: 0.0020000003, z: -4.9188297e-12}
+      rotation: {x: -0, y: 3.1554436e-30, z: 8.271806e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_middle_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_middle_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ringCup_jnt
+      parentName: Gwen_v20:Gwen_rt_hand_jnt
+      position: {x: 0.0010880005, y: 0.000026507247, z: -0.00015099609}
+      rotation: {x: -0.0017713419, y: -0.024858622, z: 0.014892497, w: 0.9995785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_a_jnt
+      parentName: Gwen_v20:Gwen_rt_ringCup_jnt
+      position: {x: 0.00075030205, y: -0.000070412294, z: -0.000028279577}
+      rotation: {x: 0, y: 4.4408926e-16, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_b_jnt
+      parentName: Gwen_v20:Gwen_rt_ring_a_jnt
+      position: {x: 0.00043315173, y: -0.000024922028, z: 2.952369e-10}
+      rotation: {x: -9.313332e-10, y: -4.4408926e-16, z: -4.4408918e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_c_jnt
+      parentName: Gwen_v20:Gwen_rt_ring_b_jnt
+      position: {x: 0.0004921901, y: -0.000018985404, z: 4.994558e-10}
+      rotation: {x: 0.0000000018626523, y: 4.4408926e-16, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_d_jnt
+      parentName: Gwen_v20:Gwen_rt_ring_c_jnt
+      position: {x: 0.0004336846, y: 0.0000039552283, z: 3.0950595e-10}
+      rotation: {x: 3.5527137e-15, y: -4.4408926e-16, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_d_jnt_end
+      parentName: Gwen_v20:Gwen_rt_ring_d_jnt
+      position: {x: -6.1394024e-12, y: 0.0020000003, z: -2.0032429e-11}
+      rotation: {x: -9.313227e-10, y: -1.2759655e-17, z: -0.000000029802315, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ring_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_ring_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinkyCup_jnt
+      parentName: Gwen_v20:Gwen_rt_hand_jnt
+      position: {x: 0.0010068297, y: -0.00007436055, z: -0.000457181}
+      rotation: {x: -0.008684595, y: -0.08804143, z: 0.068430796, w: 0.9937256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_a_jnt
+      parentName: Gwen_v20:Gwen_rt_pinkyCup_jnt
+      position: {x: 0.00069158076, y: -0.00014972467, z: -0.00010485683}
+      rotation: {x: 0.00536714, y: 0.037591364, z: -0.018277729, w: 0.99911165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_b_jnt
+      parentName: Gwen_v20:Gwen_rt_pinky_a_jnt
+      position: {x: 0.00042945266, y: -0.00006131907, z: -4.0940733e-11}
+      rotation: {x: 0, y: -4.4408926e-16, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_c_jnt
+      parentName: Gwen_v20:Gwen_rt_pinky_b_jnt
+      position: {x: 0.00026991844, y: -0.000058741763, z: 4.1123594e-11}
+      rotation: {x: 0, y: 4.4408926e-16, z: 4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_d_jnt
+      parentName: Gwen_v20:Gwen_rt_pinky_c_jnt
+      position: {x: 0.00029312132, y: -0.00000811358, z: 4.0261294e-11}
+      rotation: {x: 0, y: -4.4408926e-16, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_d_jnt_end
+      parentName: Gwen_v20:Gwen_rt_pinky_d_jnt
+      position: {x: -8.99121e-12, y: 0.0020000027, z: 1.2471668e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_pinky_d_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_pinky_d_jnt_end
+      position: {x: -0, y: 0.0020000003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_hip_jnt
+      parentName: Gwen_v20:Gwen_spine_low_jnt
+      position: {x: -0, y: -0.00094244955, z: -0.00018304143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_upLeg_jnt
+      parentName: Gwen_v20:Gwen_hip_jnt
+      position: {x: -0.0016340214, y: -0.00211735, z: -0.00038450467}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_knee_jnt
+      parentName: Gwen_v20:Gwen_lf_upLeg_jnt
+      position: {x: -2.9802322e-10, y: -0.008966071, z: 0.00008677829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ankle_jnt
+      parentName: Gwen_v20:Gwen_lf_knee_jnt
+      position: {x: -4.4703483e-10, y: -0.009260703, z: -0.00039167196}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_ball_jnt
+      parentName: Gwen_v20:Gwen_lf_ankle_jnt
+      position: {x: -7.45058e-10, y: -0.0014963659, z: 0.0024427727}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_toe_jnt
+      parentName: Gwen_v20:Gwen_lf_ball_jnt
+      position: {x: -4.4703483e-10, y: -0.00013976291, z: 0.00096119806}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_toe_jnt_end
+      parentName: Gwen_v20:Gwen_lf_toe_jnt
+      position: {x: -0, y: 0.002, z: -6.0082425e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_lf_toe_jnt_end_end
+      parentName: Gwen_v20:Gwen_lf_toe_jnt_end
+      position: {x: -0, y: 0.002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_upLeg_jnt
+      parentName: Gwen_v20:Gwen_hip_jnt
+      position: {x: 0.0016340233, y: -0.002117436, z: -0.0003845002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_knee_jnt
+      parentName: Gwen_v20:Gwen_rt_upLeg_jnt
+      position: {x: 0.000000002682209, y: -0.008965975, z: 0.00008677732}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ankle_jnt
+      parentName: Gwen_v20:Gwen_rt_knee_jnt
+      position: {x: 0.0000000025331974, y: -0.009260711, z: -0.00039169102}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_ball_jnt
+      parentName: Gwen_v20:Gwen_rt_ankle_jnt
+      position: {x: 2.9802322e-10, y: -0.0014963704, z: 0.0024427697}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_toe_jnt
+      parentName: Gwen_v20:Gwen_rt_ball_jnt
+      position: {x: -0, y: -0.00013976294, z: 0.00096118805}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_toe_jnt_end
+      parentName: Gwen_v20:Gwen_rt_toe_jnt
+      position: {x: -0, y: 0.002, z: -6.00771e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:Gwen_rt_toe_jnt_end_end
+      parentName: Gwen_v20:Gwen_rt_toe_jnt_end
+      position: {x: -0, y: 0.002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:weightSpine_grp
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: -0, y: -3.873516e-11, z: 5.7684343e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:weightSpine_grp_end
+      parentName: Gwen_v20:weightSpine_grp
+      position: {x: -0, y: 0.0019999999, z: -3.423235e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:weightSpine_grp_end_end
+      parentName: Gwen_v20:weightSpine_grp_end
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_armWeightJnt_grp
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: -0, y: -3.873516e-11, z: 5.7684343e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_armWeightJnt_grp_end
+      parentName: Gwen_v20:lf_armWeightJnt_grp
+      position: {x: -0, y: 0.0019999999, z: -3.423235e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_armWeightJnt_grp_end_end
+      parentName: Gwen_v20:lf_armWeightJnt_grp_end
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_armWeightJnt_grp
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: -0, y: -3.873516e-11, z: 5.7684343e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_armWeightJnt_grp_end
+      parentName: Gwen_v20:rt_armWeightJnt_grp
+      position: {x: -0, y: 0.0019999999, z: -3.423235e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_armWeightJnt_grp_end_end
+      parentName: Gwen_v20:rt_armWeightJnt_grp_end
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_legWeightJnt_grp
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: -0, y: -3.873516e-11, z: 5.7684343e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_legWeightJnt_grp_end
+      parentName: Gwen_v20:lf_legWeightJnt_grp
+      position: {x: -0, y: 0.0019999999, z: -3.423235e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:lf_legWeightJnt_grp_end_end
+      parentName: Gwen_v20:lf_legWeightJnt_grp_end
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_legWeightJnt_grp
+      parentName: Gwen_v20:Gwen_Skeleton_grp
+      position: {x: -0, y: -3.873516e-11, z: 5.7684343e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_legWeightJnt_grp_end
+      parentName: Gwen_v20:rt_legWeightJnt_grp
+      position: {x: -0, y: 0.0019999999, z: -3.423235e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gwen_v20:rt_legWeightJnt_grp_end_end
+      parentName: Gwen_v20:rt_legWeightJnt_grp_end
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joints
+      parentName: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rigidbodies
+      parentName: "Blender\u30A8\u30AF\u30B9\u30DD\u30FC\u30C8"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: gwen_body
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_body.001
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_body.002
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_body.003
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_body.004
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_eye
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_eye.001
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_hair
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_pants
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_pants.001
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gwen_shirt
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Gwen_v20:Gwen_Jewelery_Render
+      parentName: gwenV2(Clone)
+      position: {x: 0.0000001044159, y: -0.00000004917667, z: 7.272127e-10}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hemi
+      parentName: gwenV2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
